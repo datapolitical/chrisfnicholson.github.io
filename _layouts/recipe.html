@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 		<link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
 		{% if page.print_stylesheet %}
@@ -7,26 +7,28 @@ layout: page
 		{% endif %}
 
 <article class="post">
-	<div class="image">
-		<img class="photo" src="{{ page.image_url }}" alt="{{ page.title }}">
-		<!-- <a href="https://www.yummly.com" class="YUMMLY-YUM-BUTTON">Yum</a> -->
+	<header>
+		<img class="photo" style="float: left; margin-right:1em" src="{{ page.image_url }}" alt="{{ page.title }}">
+			<h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
+
+			<ul id="recipe" class="recipe-overview">
+				{% if page.servings != "" %}
+				<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.servings }}</span></li><br />
+				{% endif %}
+				{% if page.prep_time != "" %}
+				<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.prep_time }}</span></li><br />
+				{% endif %}
+				{% if page.cook_time != "" %}
+				<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.cook_time }}</span></li>
+				{% endif %}
+			</ul>
+	</header>
+	<div class="recipe-overview">
+				{% if page.rating!= 0 %}
+				<li>Rating: <b class="rating">{% for i in (1..page.rating) %}★{% endfor %}</b></li>
+				{% endif %}
+			</ul>
 	</div>
-
-	<ul id="recipe" class="recipe-overview">
-		{% if page.servings != "" %}
-		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.servings }}</span></li>
-		{% endif %}
-		{% if page.prep_time != "" %}
-		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.prep_time }}</span></li>
-		{% endif %}
-		{% if page.cook_time != "" %}
-		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.cook_time }}</span></li>
-		{% endif %}
-		{% if page.rating!= 0 %}
-		<li>Rating: <b class="rating">{% for i in (1..page.rating) %}★{% endfor %}</b></li>
-		{% endif %}
-	</ul>
-
 	<div class="recipe-contents">
 		<div class="ingredients">
 			<h2>Ingredients</h2>
@@ -78,19 +80,3 @@ layout: page
 		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 	{% endif %}
 </article>
-
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/js/jquery.imgPin.min.js"></script>
-<!-- <script src="https://www.yummly.com/js/widget.js?general"></script> -->
-<script>
-	$(function() {
-		$('.post img').imgPin();
-		$('a[href*=\\#]').on('click', function(event){
-			var el = $(this.hash);
-			if (el.length > 0) {
-				event.preventDefault();
-				$('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
-			}
-		});
-	});
-</script>
