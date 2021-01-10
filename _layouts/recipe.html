@@ -65,50 +65,53 @@ layout: page
 	{{ page.image_url }}
 {% endcapture %}
 <article class="post">
-	<img class="photo" src="../assets/{{ page.image_url | replace:'.jpg','.webp' }}" alt="{{ page.name }}">
-	<ul id="recipe" class="recipe-overview">
-		{% if page.servings != "" %}
-		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.servings }}</span></li>
-		{% endif %}
-		{% if page.prep_time != "" %}
-		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.prep_time }}</span></li>
-		{% endif %}
-		{% if page.cook_time != "" %}
-		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.cook_time }}</span></li>
-		{% endif %}
-		{% if page.rating!= 0 %}
-		<li>Rating: <b class="rating">{% for i in (1..page.rating) %}★{% endfor %}</b></li>
-		{% endif %}
-	</ul>
-	<div class="recipe-author">
-		{% if page.source == "Me" or page.source == "Chris Nicholson" or page.source == "Chris F. Nicholson" or page.source == "" %}
-		By: Me
-		{% elsif page.source_url == "" %}
-		By {{page.source}}
-		{% else %}
-		From: <a href="{{page.source_url}}">{{page.source}}</a>
-		{% endif %}
-	</div>
-	<div class="recipe-contents">
-		<div class="ingredients">
-			<h2>Ingredients</h2>
-            <ul>
-            {% for item in page.ingredients %}
-            <li>{{ item }}</li>
-            {% endfor %}
-            </ul>
-		</div>
-
-		<div class="directions">
-			<h2>Directions</h2>
-            <ol>
-            {% for item in page.directions %}
-            <li>{{ item }}</li>
-            {% endfor %}
-            </ol>
+	<div class="column">
+		<img class="photo" src="../assets/{{ page.image_url | replace:'.jpg','.webp' }}" alt="{{ page.name }}">
+		<ul id="recipe" class="recipe-overview">
+			{% if page.servings != "" %}
+			<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.servings }}</span></li>
+			{% endif %}
+			{% if page.prep_time != "" %}
+			<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.prep_time }}</span></li>
+			{% endif %}
+			{% if page.cook_time != "" %}
+			<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.cook_time }}</span></li>
+			{% endif %}
+			{% if page.rating!= 0 %}
+			<li>Rating: <b class="rating">{% for i in (1..page.rating) %}★{% endfor %}</b></li>
+			{% endif %}
+		</ul>
+		<div class="recipe-author">
+			{% if page.source == "Me" or page.source == "Chris Nicholson" or page.source == "Chris F. Nicholson" or page.source == "" %}
+			By: Me
+			{% elsif page.source_url == "" %}
+			By {{page.source}}
+			{% else %}
+			From: <a href="{{page.source_url}}">{{page.source}}</a>
+			{% endif %}
 		</div>
 	</div>
+	<div class="column">
+		<div class="recipe-contents">
+			<div class="ingredients">
+				<h2>Ingredients</h2>
+	            <ul>
+	            {% for item in page.ingredients %}
+	            <li>{{ item }}</li>
+	            {% endfor %}
+	            </ul>
+			</div>
 
+			<div class="directions">
+				<h2>Directions</h2>
+	            <ol>
+	            {% for item in page.directions %}
+	            <li>{{ item }}</li>
+	            {% endfor %}
+	            </ol>
+			</div>
+		</div>
+	</div>
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>

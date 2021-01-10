@@ -60,6 +60,8 @@ ol li + li {
 
 
 .post {
+  display: flex;
+
 	h1 a {
 		color: #fff;
 		text-decoration: none;
@@ -155,6 +157,9 @@ ol li + li {
 	}
 }
 
+.column {
+  flex: 50%;
+}
 
 .sharing {
 	margin: 50px 0 0 0;
