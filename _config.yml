@@ -54,11 +54,13 @@ exclude:
   - Makefile
   - README.md
   - .gitignore
+  - assets/generated/
+  - assets/images/originals/
   - vendor
   - Pipfile
   - package.json
 
-remote_theme: datapolitical/contrast
+remote_theme: datapolitical/contrast@dev
 
 page_gen-dirs: false
 
