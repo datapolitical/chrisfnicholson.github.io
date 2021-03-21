@@ -25,6 +25,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -65,6 +66,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: '5'
   rating: 0
   scale: null
@@ -144,6 +146,7 @@
     per serving (1 servings)'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 20 minutes
   rating: 0
   scale: null
@@ -189,6 +192,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/E20F4F7A-4166-4BF1-9AA0-B0896A1D018F.jpg
   prep_time: 10 minutes
   rating: 0
   scale: null
@@ -240,6 +245,8 @@
     Protein: 0 protein.'
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/ACA7AE31-5A5B-4CAF-890B-3C6E723E1A95.jpg
   prep_time: 10 min
   rating: 0
   scale: 1/1
@@ -248,6 +255,45 @@
   source_url: https://www.tasteofhome.com/recipes/cider-wassail-punch/
   total_time: ''
   uid: 052F1D73-3DB3-4A66-886F-385A437DCFBD-646-00000015737AE7E3
+- categories: []
+  cook_time: 1 day
+  created: '2021-03-19 03:44:45'
+  description: ''
+  difficulty: ''
+  directions:
+  - Add the salt, sugar and black peppercorns to a large stock pot of 8 quart square
+    plastic food storage container.
+  - Pour in the hot water and stir until the salt and sugar have dissolved.
+  - '[photo:First]'
+  - Pour in the cold water and throw in the bay leaves.
+  - Lower in the chicken and position so it is fully immersed in the water.
+  - Cover with plastic wrap and place in the fridge for 12-24 hours.
+  image_url: images/recipes/1BB12CD1-A7E9-45A4-ACD6-841E8CB9662D.jpg
+  in_trash: false
+  ingredients:
+  - 1 cup table salt
+  - 2 tbsp sugar
+  - 1 1/2 tsp black peppercorns
+  - 1 litre hot water
+  - 3 litres cold water
+  - 3 bay leaves
+  - 1 whole chicken
+  is_pinned: false
+  name: How to Brine Chicken
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos:
+  - First: images/recipes/F0E73238-4C2F-4AD9-B29E-C783959F5219.jpg
+  prep_time: 1 day
+  rating: 0
+  scale: null
+  servings: 'Servings: 1 whole chicken'
+  source: theblackpeppercorn.com
+  source_url: https://www.theblackpeppercorn.com/how-to-brine-chicken/
+  total_time: ''
+  uid: 069CA7FF-5E25-462D-9AD8-8B3D5AED980D
 - categories:
   - Web
   - Indian
@@ -293,6 +339,8 @@
     \ 67mg\nIron: 2mg"
   on_favorites: true
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/21F333A0-1CD6-4776-86DF-CC040B4E2E54-610-000000797B162C3C.jpg
   prep_time: 5 minutes
   rating: 5
   scale: 4/3
@@ -361,6 +409,8 @@
     | Iron: 2mg'
   on_favorites: true
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/D5C33AEE-2F3D-48EC-BF62-0873E4525AA2.jpg
   prep_time: ''
   rating: 5
   scale: null
@@ -463,6 +513,7 @@
   nutritional_info: Calories 190 kcal
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 40 minutes
   rating: 0
   scale: null
@@ -506,6 +557,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/934AB56B-3C05-4E07-8F48-268187B0844F.jpg
   prep_time: 10 min
   rating: 5
   scale: 3/1
@@ -610,6 +663,8 @@
     Iron 3mg'
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/B17D42BC-BA75-477F-8F9F-70246CC356C9.jpg
   prep_time: 20 mins
   rating: 4
   scale: null
@@ -700,6 +755,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 35 mins
   rating: 0
   scale: null
@@ -708,6 +764,63 @@
   source_url: https://www.kingarthurflour.com/recipes/sourdough-cinnamon-buns-recipe
   total_time: ''
   uid: 1B38C03A-7088-4319-8724-F58930CE5450-15656-00000468553228D7
+- categories: []
+  cook_time: ''
+  created: '2021-03-15 19:15:15'
+  description: ''
+  difficulty: ''
+  directions:
+  - Barbecue Chicken Directions
+  - Start by soaking your wood chips in water or beer for an hour to two. Apple or
+    cherry wood is best when paired with lighter meats like poultry and soaking them
+    prior to throwing them on the smoker allows them to smoulder and smoke instead
+    of burn quickly.
+  - The next step is to light your charcoal smoker approximately 30 to 35 minutes
+    before you want to start cooking the chicken. The charcoal will be ready when
+    all of the coals turn to a glowing white hot color.
+  - Mix your BBQ seasoning with some olive oil until it turns into a paste. Take your
+    hands and apply the paste all over the chicken. You can even separate the breast
+    meat from the skin by sliding your finger down the top of the bird and put some
+    seasoning directly on the breast meat. This will help add additional flavor to
+    the meat instead of just the skin.
+  - Throw your smoker wood on and place the seasoned bird on the grates of the smoker.
+    You want to adjust the vent on top of your smoker to allow about 75% of the vent
+    to be open. If your grill lid is adjustable, make sure the vents are positioned
+    over the top of the chicken in order to draw all of the smoke over the chicken
+    before it escapes the smoker.
+  - Check the barbecue chicken about once an hour to see if you are holding the right
+    temperature. We recommend mopping the bird with the BBQ sauce about 30 minutes
+    prior to pulling it off the smoker. This will allow the sauce to caramelize on
+    the chicken and will further enhance the flavor. Just make sure you use a mopping
+    brush instead of a basting brush or you will wipe away all your seasoning.
+  - Take the chicken off the smoker when it has reached an internal temperature inside
+    the breast of 165 degrees and tent it with aluminum foil. Never cut into meat
+    when it is hot off the smoker or the juices won't redistribute and it will turn
+    out tough. After 20 minutes, slice and serve along side a bowl of your BBQ sauce.
+  image_url: images/recipes/E49B0340-EB89-4480-9A38-78BD0FF688B1.jpg
+  in_trash: false
+  ingredients:
+  - BBQ Smoked Chicken Ingredients
+  - 1 whole chicken
+  - Olive oil
+  - 1 bottle of barbecue seasoning (McCormick or Grill Mates brands recommended)
+  - 1 bottle of your favorite restaurant BBQ sauce
+  - Apple or Cherry wood
+  is_pinned: false
+  name: BBQ Smoked Chicken
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: smokegrillbbq.com
+  source_url: https://www.smokegrillbbq.com/bbq-smoked-chicken.html
+  total_time: ''
+  uid: 1F17CD9D-B279-473B-B3C0-743E1866D17F
 - categories:
   - Jewish
   - Web
@@ -752,6 +865,8 @@
     232mg sodium, 20g carbohydrate (3g sugars, 1g fiber), 4g protein.'
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/B9DE2765-7BC4-4BE6-BBFD-57AB23E8FA8C.jpg
   prep_time: 30 min
   rating: 5
   scale: null
@@ -800,6 +915,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 15 mins
   rating: 0
   scale: null
@@ -841,6 +957,7 @@
     1g | Sugar: 17g | Vitamin A: 190IU | Calcium: 4mg | Iron: 0.4mg'
   on_favorites: false
   on_grocery_list: false
+  photos: []
   prep_time: 3 minutes
   rating: 0
   scale: null
@@ -849,6 +966,159 @@
   source_url: https://www.favfamilyrecipes.com/microwave-rice-krispie-treats/
   total_time: ''
   uid: 252DE86B-2994-4382-97EC-BD3757200E2F
+- categories: []
+  cook_time: 1 hr
+  created: '2021-03-18 15:08:45'
+  description: ''
+  difficulty: ''
+  directions:
+  - About 24 hours before you want to cook the bird, combine salt and baking powder
+    in a small bowl. Remove the spine from the chicken and set aside. Taking a pinch
+    of salt at a time, hold your hands about 6 inches above the bird and liberally
+    apply to the entire bird, on all sides. Rub into the chicken. Refrigerate uncovered
+    for up to 2 days, a minimum of 24 hours.
+  - When you're ready to cook, either preheat the Traeger or the oven to 400 degrees.
+    Cooking times should not vary dramatically between the two.
+  - Remove the chicken and on a cutting board, apply liberal amounts of all the seasonings
+    listed under "Rub". The quantity depends on the size of the bird, but you want
+    a lot of the seasonings on the bird. Apply under skin as well if you are able.
+    Use olive oil liberally to help distribute the seasonings.
+  - Cook for 45 minutes to 1 hour, until the internal temperature of the bird reaches
+    160 for the breasts and 165 for the thighs.
+  - Let rest for 10 minutes and then carve and serve!
+  image_url: images/recipes/F47269A7-47FB-4245-A5FE-B9C787C98510.jpg
+  in_trash: false
+  ingredients:
+  - 1 whole chicken
+  - For the Dry Brine
+  - 1 tbsp baking powder
+  - "\xBC cup salt"
+  - For the Rub
+  - dried thyme
+  - ground mustard
+  - ground onion powder
+  - ground garlic powder
+  - ground sage
+  - "\xBC cup olive oil"
+  is_pinned: false
+  name: Dry Brine Chicken - Spatchcocked & Smoked
+  notes: If you are sensitive to salt, you can wipe off the salt mixture before applying
+    the rub.
+  nutritional_info: '354 kcal
+
+    Calories: 354kcal
+
+    Carbohydrates: 1g
+
+    Protein: 24g
+
+    Fat: 28g
+
+    Saturated Fat: 7g
+
+    Trans Fat: 1g
+
+    Cholesterol: 95mg
+
+    Sodium: 5017mg
+
+    Potassium: 241mg
+
+    Fiber: 1g
+
+    Vitamin A: 178IU
+
+    Vitamin C: 2mg
+
+    Calcium: 134mg
+
+    Iron: 1mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 1 d 30 mins
+  rating: 0
+  scale: null
+  servings: 6 servings
+  source: thatzestlife.com
+  source_url: https://www.thatzestlife.com/dry-brine-chicken-spatchcocked-smoked/
+  total_time: ''
+  uid: 29A0659D-4F71-46D1-B6FA-93D4B3989C4E
+- categories: []
+  cook_time: 16 hours
+  created: '2021-03-19 17:29:08'
+  description: ''
+  difficulty: ''
+  directions:
+  - 'First, make the dry rub:'
+  - Combine all the ingredients except for the chicken in a resealable container,
+    cover tightly, and shake well to combine. (Dry rub can be stored, covered, in
+    a cool, dry place for up to 2 months.)
+  - 'If brining:'
+  - In a stockpot, bring 1 gallon water and 1 cup dry rub to a boil, stirring until
+    the sugar and salt are dissolved. Let the brine cool to room temperature, then
+    transfer to a nonreactive container and refrigerate until chilled. Add the chicken
+    to the cold brine and refrigerate for 4 to 8 hours.
+  - Set a wire rack on a baking sheet. Remove the chicken from the brine, pat dry
+    with paper towels, and place on the wire rack. Discard the brine. Refrigerate
+    for 6 hours.
+  - 'If using the dry rub instead of brining:'
+  - Put the chicken on a rimmed baking sheet and coat the chicken lightly all over
+    with 1/2 cup dry rub (you may not need all of the rub) and set aside.
+  - 'Prep your kettle grill:'
+  - "Remove any ash and debris if the smoker has been previously used and clean the\
+    \ grates. Fill a chimney starter about halfway with hardwood charcoal. Loosely\
+    \ crumple a couple of pieces of newspaper and drizzle or spray them with vegetable\
+    \ oil (this helps the paper burn longer and speeds up the charcoal-lighting process).\
+    \ Stuff the paper into the chimney's lower chamber place the chimney on the smoker's\
+    \ top grate, and light it. Let the charcoal burn until the coals are glowing red\
+    \ and coated in gray ash, about 15 minutes. Put on a pair of heavy-duty fireproof\
+    \ gloves and carefully dump the charcoal into one side of the grill\u2014over\
+    \ the bottom air vent if your grill has one\u2014leaving the other half free of\
+    \ coals. Place a disposable aluminum tray on the other side to use as a drip pan."
+  - Place a few hardwood chunks or a foil packet of wood chips over the coals. Add
+    the top grate and put your meat over the drip pan. Cover the grill, placing the
+    air vents in the lid over the meat. Open both vents about halfway.
+  - "Place the chicken in the smoker and smoke, maintaining a smoker temperature of\
+    \ between 200\xB0 and 225\xB0F, replenishing the wood chunks or chips as needed,\
+    \ until an instant-read thermometer inserted into the center of a leg registers\
+    \ 165\xB0F, 3 to 5 hours. Transfer the chicken to a cutting board and let rest\
+    \ for 10 minutes."
+  - "At this point, you can cut the chicken into quarters or tear the meat into shreds\
+    \ to make pulled chicken. Or, if you want extra-crispy skin, you can briefly roast\
+    \ the chicken in a 450\xB0F oven, or prepare a grill with hot and cool sides,\
+    \ put the chicken over the cool side, cover the grill, and cook for 5 to 10 minutes."
+  image_url: images/recipes/F19580B6-DC50-4D7A-BB58-468E75FF96B2.jpg
+  in_trash: false
+  ingredients:
+  - 3/4 cup packed dark brown sugar
+  - 1/2 cup kosher salt
+  - 1/2 cup ground espresso beans
+  - 2 tablespoons freshly ground black pepper
+  - 2 tablespoons garlic powder
+  - 1 tablespoon ground cinnamon
+  - 1 tablespoon ground cumin
+  - 1 tablespoon cayenne pepper
+  - 1 whole chicken (about 4 pounds), giblets removed
+  - 'Special equipment:'
+  - Charcoal kettle grill, chimney starter, heavy-duty fireproof gloves, disposable
+    aluminum tray, instant-read thermometer, hardwood charcoal, wood chunks or soaked
+    wood chips, large non-reactive 5-gallon container.
+  is_pinned: false
+  name: Slow-Smoked Barbecue Chicken
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 4 hours
+  rating: 0
+  scale: null
+  servings: Serves 4
+  source: epicurious.com
+  source_url: https://www.epicurious.com/recipes/food/views/slow-smoked-barbecue-chicken-56389582
+  total_time: ''
+  uid: 2C7FD9E7-7F0E-47DE-879E-1C6D66CFCACD
 - categories:
   - Made at 307
   - Web
@@ -891,6 +1161,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos:
+  - '1': images/recipes/FD663AC7-650B-49D6-AF78-25EE8375C74E-7739-0000039408A5A383.jpg
   prep_time: ''
   rating: 5
   scale: null
@@ -941,6 +1213,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 5 minutes
   rating: 0
   scale: null
@@ -949,6 +1222,88 @@
   source_url: https://www.gimmesomeoven.com/baked-salmon-recipe/
   total_time: ''
   uid: 39284342-AFED-4233-AA6A-65B03B639011-640-00000049819CFECF
+- categories: []
+  cook_time: ''
+  created: '2021-03-19 23:56:38'
+  description: ''
+  difficulty: ''
+  directions:
+  - Take the chicken and remove all the inside parts that need to be tossed out, like
+    the liver, neck, etc.
+  - Place the whole chicken and on a cutting board, cut the chicken with a meat cleaver
+    down the middle of the breast. (I like to do this so I can open up the chicken
+    and get the rub everywhere.) Place in a 9x13 glass pyrex dish.
+  - In a small bowl, mix all the dry rub ingredients listed above. Generously rub
+    the chicken that is still in the Pyrex dish with the mixture until rub is gone.
+  - Place plastic wrap over the Pyrex dish and refrigerate overnight. I like to marinate
+    my chicken for at least 8 to 12 hours.
+  - After the chicken has marinated, turn on your smoker (or light it) and let it
+    preheat until the smoker hits 225 degrees.
+  - Fill the entire wood pan with wood chunks or chips. If you use chunks, they will
+    last the entire smoke time without you having to refill the pan. If you use wood
+    chips, they will burn out by the end of the smoke time so check them every 2-3
+    hours and add more if they have burned out. I wrap my wood chunks in aluminum
+    foil and poke holes in the aluminum foil with a knife. To me, the smoke pouch
+    helps smoke release better which provides more flavor.
+  - Once the smoker is preheated and the wood pan and water pan are prepped, place
+    the whole chicken on the rack breast side up and close your smoker. You should
+    expect to see a lot of smoke in the first 2 hours and then it will die down a
+    bit. It will smell wonderful outside!
+  - "Smoke the chicken at about 225 degrees for about 4 to 5 hours. Sometimes the\
+    \ smoker temperature will get up to 250, but I never let it go over that. You\
+    \ will need to manage your temperature to ensure the smoker doesn\u2019t get too\
+    \ hot."
+  - At the 4th hour, insert a digital thermometer to see how much longer it has before
+    reaching 165 degrees. When the chicken is done, turn the smoker off and remove
+    the chicken.
+  - Your chicken should be at 165 degrees. I like to check at the chicken breast and
+    legs.
+  - Let the chicken sit for about 10 minutes before slicing and eating.
+  image_url: images/recipes/42B2FC42-F306-4275-85C6-294BB82220ED.jpg
+  in_trash: false
+  ingredients:
+  - "\xBC cup cup dark brown sugar, packed"
+  - 2 Tablespoons chili powder
+  - 1 Tablespoon smoked paprika
+  - 1 Tablespoon onion powder
+  - 1 Tablespoon garlic powder
+  - 1 Tablespoon oregano
+  - 1 teaspoon salt
+  - 1 whole chicken, 4 to 5 pounds
+  is_pinned: false
+  name: Applewood Smoked Chicken
+  notes: "When you slow smoke a whole chicken, the skin can become dry and rubbery.\
+    \ And for those of you who love to eat the skin will want to make sure it's moist\
+    \ and delicious. Here's a trick you for a delicious and moist skin. Take a large\
+    \ cheesecloth and soak it in melted butter. Drape it over the chicken before you\
+    \ put it in the smoker. Smoke the whole chicken with the cheesecloth on the entire\
+    \ time and then remove it 30 minutes before it's done.\n\nI prefer using chunks\
+    \ when I smoke my chicken because it\u2019s been my experience they produce more\
+    \ smoke for a longer period of time. And I always soak my chunks in water for\
+    \ at least 6-12 hours.\n\nYou need to fill the entire wood pan up with wood chunks\
+    \ or chips. If you use chunks, they will last the entire smoke time without you\
+    \ having to refill the pan. If you use wood chips, they will burn out by the end\
+    \ of the smoke time so check them every 2-3 hours and add more if they have burned\
+    \ out.\n\nI wrap my wood chunks in aluminum foil and poke holes in the aluminum\
+    \ foil with a knife. To me, the smoke pouch helps smoke release better which provides\
+    \ more flavor.\n\nDepending on how many pounds your chicken is will depend on\
+    \ how long the chicken will take to smoke and be completely cooked through. Make\
+    \ sure you are using a thermometer inserted in the chicken to ensure it gets to\
+    \ 165 degrees F."
+  nutritional_info: 'Serving: 6peopl | Calories: 362kcal | Carbohydrates: 8g | Protein:
+    28.9g | Fat: 23g | Cholesterol: 115mg | Sodium: 110mg | Sugar: 6g'
+  on_favorites: false
+  on_grocery_list: false
+  photos:
+  - '1': images/recipes/42B2FC42-F306-4275-85C6-294BB82220ED.jpg
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: 'Serving: 6'
+  source: recipesworthrepeating.com
+  source_url: https://recipesworthrepeating.com/applewood-smoked-chicken/
+  total_time: ''
+  uid: 3CAFDA8B-68FE-414D-A894-0C65D9E619DC
 - categories:
   - Made at 307
   - Dessert
@@ -994,6 +1349,8 @@
     57gFiber: 0gSugar: 31gProtein: 2g'
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/F6097387-10A6-477A-8AA3-80F5F7D4CEFA-16078-0000066088E11AAE.jpg
   prep_time: 5 minutes
   rating: 5
   scale: null
@@ -1049,6 +1406,7 @@
     Protein 15.4g'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 1 minute
   rating: 0
   scale: null
@@ -1057,6 +1415,95 @@
   source_url: https://diabetesstrong.com/keto-mug-cake/
   total_time: ''
   uid: 3F013FC0-BF4A-46DB-A8AB-5B5C7E1E077B-14886-000005E4BE20F302
+- categories:
+  - Dinner
+  - Writeup
+  - Made at 307
+  - BBQ
+  - Chicken
+  - Web
+  - I Made This
+  cook_time: 2 hr, 30 min
+  created: '2021-03-19 19:10:15'
+  description: ''
+  difficulty: ''
+  directions:
+  - Empty chicken cavity, lightly rinse chicken. Stuff cavity with two quarters of
+    an onion and two quarters of a lemon with the peel and rind removed. Save the
+    peel and rind.
+  - '**Make the brine**'
+  - Add the salt, sugar, rosemary, garlic, lemon peel and black peppercorns to a large
+    stock pot or 8 quart square plastic food storage container.
+  - Pour in the hot water (1 quart) and stir until the salt and sugar have dissolved.
+  - Pour in the cold water (3 quarts) and throw in the bay leaves.
+  - Lower in the chicken and position so it is fully immersed in the water.
+  - Cover with plastic wrap or pot top and place in the fridge for 12-24 hours.
+  - 'Remove chicken from brine and pat dry. '
+  - '**Season the chicken**'
+  - "Rub \xBC cup olive oil all over the skin of the chicken."
+  - Combine dry rub ingredients in a small bowl and mix well. Apply dry rub all over
+    the chicken.
+  - '**Start The Grill**'
+  - "Light a full chimney of charcoal. Wait 30 minutes. Pour the charcoal to one side,\
+    \ place a drip pan half full of water on the other side. Allow the grill temperature\
+    \ to get between 250-275\xB0F, measured on the cold side of the grill."
+  - Place the chicken over the drip pan in the center of the grill. Insert the probe
+    into the breast.
+  - "While smoking occasionally adjust the vents to keep the cooking temperature between\
+    \ 250\xB0F-275\xB0F (less air to cool the temperature, more to increase the heat).\
+    \ If using briquettes, two or three times during the smoking, add a handful of\
+    \ wood cuttings or chips on top of the lit charcoal. (Don't do this too much or\
+    \ else the meat will be overly smoky. Once every hour - hour and half is usually\
+    \ perfect)."
+  - "Cook until the thickest part of the breast meat measures 160\xB0F, usually about\
+    \ 2 \xBD hours for a small chicken but will vary greatly depending on your temperatures\
+    \ and the size of the chicken."
+  - After the chicken is cooked, remove from the smoker and allow to rest for 20 minutes.
+    After rested, carve and serve.
+  image_url: images/recipes/8A2E3010-CC6A-4E99-B776-855BA6576172.jpg
+  in_trash: false
+  ingredients:
+  - 4 lb. (1.82 kg) whole Chicken
+  - "\xBD a white onion"
+  - "\xBD a large lemon"
+  - '**Brine**'
+  - 1 cup table salt
+  - 2 tbsp sugar
+  - 1 1/2 tsp black peppercorns
+  - 1 lemon rind
+  - 4 sprigs rosemary
+  - 3 peeled crushed cloves of garlic
+  - 1 quart hot water
+  - 3 quarts cold water
+  - 3 bay leaves
+  - "\xBC cup olive oil"
+  - '**Rub**'
+  - 3 teaspoons salt
+  - 2 teaspoons paprika*
+  - 2 teaspoons brown sugar
+  - 1.5 teaspoon black pepper (fresh if possible)
+  - 1 teaspoon onion powder
+  - 1 teaspoon garlic powder
+  - 1 teaspoon dried thyme
+  - "\xBD teaspoon cayenne pepper (optional, but recommended)**"
+  is_pinned: false
+  name: Smoked Whole Chicken
+  notes: ''
+  nutritional_info: 'calories: 488kcal, protein: 42g, fat: 34g, saturated fat: 10g,
+    cholesterol: 170mg, sodium: 159mg, potassium: 429mg, vitamin a: 318IU, vitamin
+    c: 4mg, calcium: 25mg, iron: 2mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos:
+  - '1': images/recipes/8A2E3010-CC6A-4E99-B776-855BA6576172.jpg
+  prep_time: 30 min
+  rating: 5
+  scale: null
+  servings: 'Yield: 4 servings'
+  source: bestrecipebox.com
+  source_url: https://bestrecipebox.com/smoked-chicken/
+  total_time: ''
+  uid: 43329B9B-B445-4EA8-A937-C897252C15E2
 - categories:
   - Dish Type
   - Dinner
@@ -1116,6 +1563,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/C79536F9-6D2A-44EB-84D4-60A7AD7A9B37.jpg
   prep_time: 20 minutes
   rating: 5
   scale: null
@@ -1195,6 +1644,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 20 mins
   rating: 0
   scale: null
@@ -1240,6 +1690,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/E0E34169-7D74-47E1-9110-E85559AE760E.jpg
   prep_time: ''
   rating: 5
   scale: null
@@ -1282,6 +1734,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos:
+  - '1': images/recipes/480E186C-6A7E-400C-9495-D4086BA14615-1776-0000009ACF23F0FE.jpg
   prep_time: ''
   rating: 0
   scale: null
@@ -1422,6 +1876,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -1470,6 +1925,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos:
+  - '1': images/recipes/9B8B0603-97A3-43AC-9BA1-E3DBC30241AA-610-0000018EBF7ADC94.jpg
   prep_time: 15 minutes
   rating: 0
   scale: null
@@ -1528,6 +1985,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -1595,6 +2053,7 @@
     per serving (4 servings)'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 35 minutes
   rating: 2
   scale: 1/2
@@ -1688,6 +2147,8 @@
     Sodium 742.5 mg (30.9%)'
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/6FDFF345-ABA9-42D9-A2B7-8ECF1C2C66DC.jpg
   prep_time: 40 minutes
   rating: 4
   scale: null
@@ -1742,6 +2203,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -1778,6 +2240,7 @@
     189.5mg; sodium 191.7mg. Full Nutrition
   on_favorites: false
   on_grocery_list: false
+  photos: []
   prep_time: 10 mins
   rating: 0
   scale: null
@@ -1893,6 +2356,8 @@
     Sodium 170.0 mg (7.1%)'
   on_favorites: true
   on_grocery_list: null
+  photos:
+  - '1': images/recipes/25D4DA4A-FA6A-499B-9615-D211FEA87591-7551-0000028CAA2D1DA9.jpg
   prep_time: ''
   rating: 5
   scale: 1/1
@@ -1937,6 +2402,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 15 minutes
   rating: 0
   scale: null
@@ -1981,6 +2447,7 @@
     34.8 g carbohydrates; 3.8 g protein; Full Nutrition
   on_favorites: true
   on_grocery_list: null
+  photos: []
   prep_time: 15 mins
   rating: 0
   scale: 1/1
@@ -2033,6 +2500,8 @@
     14g | Cholesterol: 215mg | Sodium: 522mg | Fiber: 1g | Sugar: 1g'
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/60FA2436-C054-4EFE-A595-40204E9CBF18.jpg
   prep_time: 20 minutes
   rating: 5
   scale: 1/1
@@ -2077,6 +2546,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos: []
   prep_time: '20'
   rating: 0
   scale: null
@@ -2128,6 +2598,8 @@
     Protein: 0.3'
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/87181A41-1000-478C-A258-F53C204FD9D6.jpg
   prep_time: 10 min
   rating: 5
   scale: 3/1
@@ -2203,6 +2675,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/BC8DEA68-0ED1-4DB7-A129-E30D82297E2D.jpg
   prep_time: 23 hours
   rating: 4
   scale: null
@@ -2277,6 +2751,7 @@
     Protein 69g'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 30 minutes
   rating: 0
   scale: null
@@ -2329,6 +2804,10 @@
     19 g.'
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '3': images/recipes/9DB0DA9D-F9D3-4528-8A75-1966379C4CDE.jpg
+  - '2': images/recipes/43FC69C8-0B6E-455B-B36D-7ADE9F551958.jpg
+  - '1': images/recipes/2D30BBA6-9988-4B05-A56C-0D176584247C-9567-000003422DEFF996.jpg
   prep_time: 10 mins
   rating: 5
   scale: 2/1
@@ -2435,6 +2914,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 30 mins
   rating: 0
   scale: null
@@ -2520,6 +3000,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -2528,6 +3009,45 @@
   source_url: https://domesticgothess.com/blog/2015/07/30/hokkaido-milk-bread/
   total_time: ''
   uid: 79E3CDD7-84F3-472D-B4A6-3A913802841A-3431-000001001816A812
+- categories: []
+  cook_time: ''
+  created: '2021-03-19 03:43:36'
+  description: ''
+  difficulty: ''
+  directions:
+  - Rub chicken with olive oil and sprinkle with seasoning
+  - 'To slow cook:'
+  - Add seasoned chicken to slow cooker
+  - Carefully pour liquid into bottom, careful not to wash of seasoning
+  - Cover and cook on low for 8 hours or high for 4
+  - If desired, place on broiler safe pan in oven for a few minutes to brown
+  - 'To grill:'
+  - Preheat grill/smoker to about 450 degrees and add your favorite wood chips/pellets
+    as appropriate for your grill
+  - Place chicken on grill and maintain temperature at about 400-450 degrees
+  - Cover and cook for about an hour until chicken is done (170 degrees)
+  image_url: images/recipes/9C2DBAA4-F7D6-4C73-9EFC-13BC18DBCB3C.jpg
+  in_trash: false
+  ingredients:
+  - 3-4 pound whole chicken
+  - 2 tablespoons olive oil
+  - 2-3 teaspoons seasoning blend (I used Penzey's Mural of Flavor)
+  - 1 cup broth or water (if slow cooking)
+  is_pinned: false
+  name: 'Whole Roast Chicken: Slow Cooked vs. Smoked'
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: slowcookergourmet.net
+  source_url: https://slowcookergourmet.net/whole-roast-chicken-slow-cooked-vs-smoked/
+  total_time: ''
+  uid: 7BB92AAE-A5E9-4DD0-A942-76B2D62B1B79
 - categories: []
   cook_time: 2 mins
   created: '2021-01-21 14:59:53'
@@ -2566,6 +3086,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 5 mins
   rating: 0
   scale: null
@@ -2672,6 +3193,7 @@
     Protein: 7 grams'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 3
   scale: null
@@ -2734,6 +3256,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/53A26643-4904-46E1-ACC7-687C1BA5F549.jpg
   prep_time: ''
   rating: 5
   scale: null
@@ -2811,6 +3335,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -2924,6 +3449,7 @@
     Iron: 2mg'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 10 mins
   rating: 0
   scale: null
@@ -2971,6 +3497,7 @@
     Protein: 1g protein. Diabetic Exchanges: 1 vegetable'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 15 min
   rating: 0
   scale: null
@@ -3035,6 +3562,7 @@
     Protein: 16 grams'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 5
   scale: null
@@ -3043,6 +3571,45 @@
   source_url: https://cooking.nytimes.com/recipes/1018671-classic-matzo-brei?smid=ck-recipe-iOS-share
   total_time: ''
   uid: 87EC70DC-8272-4E94-A1E0-8ED3957022A5-10753-0000038DF159BE79
+- categories: []
+  cook_time: 5 minutes
+  created: '2021-03-19 23:58:06'
+  description: ''
+  difficulty: ''
+  directions:
+  - Combine ingredients in a small bowl and mix well. Apply to your favorite meat
+    before cooking.
+  image_url: images/recipes/58964A1B-B5DD-49CA-8CF5-3630B6F863FD.jpg
+  in_trash: false
+  ingredients:
+  - 3 teaspoons salt
+  - 2 teaspoons paprika*
+  - 2 teaspoons brown sugar
+  - 1.5 teaspoon black pepper
+  - 1 teaspoon onion powder
+  - 1 teaspoon garlic powder
+  - 1 teaspoon dried thyme
+  - "\xBD teaspoon cayenne pepper (optional, but recommended)**"
+  is_pinned: false
+  name: Perfect Smoked Chicken Rub
+  notes: '*Smoked paprika is great, if you have it on hand! Otherwise, use normal
+    paprika.
+
+
+    **If you don''t like spicy foods, add just a dash of cayenne pepper instead of
+    the amount called for.'
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 5 minutes
+  rating: 0
+  scale: null
+  servings: ''
+  source: blackberrybabe.com
+  source_url: https://blackberrybabe.com/2020/03/19/perfect-smoked-chicken-rub/
+  total_time: ''
+  uid: 8B77C453-398A-426A-9787-36161E33081A
 - categories: []
   cook_time: 40mins
   created: '2020-12-22 20:22:06'
@@ -3094,6 +3661,7 @@
     Protein: 4.8'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 10 min
   rating: 0
   scale: null
@@ -3102,6 +3670,48 @@
   source_url: https://www.food.com/recipe/sweet-potato-waffles-117479
   total_time: ''
   uid: 8C1D4340-7CF9-4906-8BE3-CCD4FC754331-1776-000000885897B092
+- categories: []
+  cook_time: 4 hrs
+  created: '2021-03-15 19:08:48'
+  description: ''
+  difficulty: ''
+  directions:
+  - Preheat your smoker to 225 degrees F.
+  - Drizzle chicken with olive oil and season on all sides with the sweet rub. I don't
+    recommend rubbing in your seasoning because it will just pull back on the skin
+    and your seasoning will chunk.
+  - Use butcher twine to tie the legs together and tuck the wing tips behind the shoulder
+    joint.
+  - Place your chicken directly on the grill grates on your smoker. Close the lid
+    and smoke for 3 1/2 - 4 hours. Breasts should be about 160-165 degrees F. The
+    thighs should be about 170-175 degrees F.
+  - Baste with your favorite BBQ sauce during the last 30 minutes of cooking (this
+    is optional). Also, if you want crispy skin on your chicken, increase the heat
+    on your smoker for the final 8-10 degrees (aim for 375-400 degrees).
+  - Once the chicken has reached the correct internal temperature, remove it from
+    the grill, slice, and serve.
+  image_url: images/recipes/D13249F9-2146-484E-812A-14848DA78F5C.jpg
+  in_trash: false
+  ingredients:
+  - 1 2-3 pound whole chicken
+  - 2 Tablespoons olive oil
+  - 2-3 Tablespoons Hey Grill Hey Signature Sweet Rub
+  is_pinned: false
+  name: Smoked Whole Chicken 2
+  notes: ''
+  nutritional_info: 'Calories: 62kcal | Protein: 1g | Fat: 7g | Saturated Fat: 1g
+    | Cholesterol: 1mg | Sodium: 1mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 5 mins
+  rating: 0
+  scale: null
+  servings: ''
+  source: heygrillhey.com
+  source_url: https://heygrillhey.com/smoked-whole-chicken/
+  total_time: ''
+  uid: 8C56C1A2-F91A-447B-8911-18AB295F1293
 - categories: []
   cook_time: 'prep: 20 min. bake: 30 min. + cooling'
   created: '2021-01-21 15:08:42'
@@ -3146,6 +3756,7 @@
     1-1/2 starch.'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 20 min
   rating: 0
   scale: null
@@ -3182,6 +3793,7 @@
     fat 13.2g 20% DV; cholesterol 63.2mg 21% DV; sodium 333.6mg 13% DV. Full Nutrition
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 10 mins
   rating: 0
   scale: null
@@ -3228,6 +3840,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 5 minutes
   rating: 0
   scale: 1/1
@@ -3275,6 +3888,7 @@
     402mg sodium, 66g carbohydrate (36g sugars, 4g fiber), 7g protein.'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 20 min
   rating: 0
   scale: null
@@ -3341,6 +3955,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -3407,6 +4022,7 @@
     9.2g (10%)'
   on_favorites: false
   on_grocery_list: false
+  photos: []
   prep_time: ''
   rating: 4
   scale: null
@@ -3467,6 +4083,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/FC600CE7-7913-4E0E-BE7F-B357FE7899B0.jpg
   prep_time: 25 mins
   rating: 4
   scale: 4/3
@@ -3570,6 +4188,7 @@
     Cholesterol: 35 mg'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -3623,6 +4242,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos:
+  - '1': images/recipes/64C99689-F712-4053-8EDA-6DDD8306368F-34834-00000DC68A818663.jpg
   prep_time: ''
   rating: 0
   scale: null
@@ -3704,6 +4325,9 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '2': images/recipes/F32BE374-7543-496E-9DA9-99E4907CE6F6.jpg
+  - After baking - first batcg: images/recipes/51D13CC6-C79D-4498-9E1C-447083AD5221-21757-00000979668F334C.jpg
   prep_time: 20 mins
   rating: 5
   scale: 1/1
@@ -3762,6 +4386,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/59F1F9AB-94B8-4582-B51C-EC5EC5DDDAF1.jpg
   prep_time: ''
   rating: 5
   scale: null
@@ -3824,6 +4450,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -3870,6 +4497,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/192339AB-7E5A-4683-AAF0-D314CC2674ED-16078-00000659BD278AB4.jpg
   prep_time: ''
   rating: 5
   scale: 2/1
@@ -3983,6 +4612,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 20 mins
   rating: 0
   scale: 3/2
@@ -4069,6 +4699,7 @@
     22g | Fiber: 3g | Sugar: 5g'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 5 minutes
   rating: 0
   scale: null
@@ -4114,6 +4745,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos:
+  - '1': images/recipes/AE1B523A-A9BB-44B4-B636-3D09271344F5-7789-000002B372D90F16.jpg
   prep_time: ''
   rating: 0
   scale: null
@@ -4161,6 +4794,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/C9DF315F-C91F-4251-AFBC-3A4C5922CEB2.jpg
   prep_time: 5 mins
   rating: 4
   scale: null
@@ -4217,6 +4852,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -4318,6 +4954,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 20 mins
   rating: 0
   scale: null
@@ -4349,6 +4986,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 5
   scale: null
@@ -4419,6 +5057,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 30 mins
   rating: 0
   scale: null
@@ -4488,6 +5127,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -4554,6 +5194,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 5 mins
   rating: 0
   scale: null
@@ -4627,6 +5268,8 @@
   nutritional_info: ''
   on_favorites: true
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/7092C31E-7AC9-4119-8D1D-7DDEF419222B.jpg
   prep_time: 12 mins
   rating: 5
   scale: null
@@ -4680,6 +5323,7 @@
     5g, fat: 2g, sodium: 32mg, fiber: 3g, sugar: 4g'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 2 minutes
   rating: 0
   scale: null
@@ -4744,6 +5388,7 @@
     SUGAR: 15g PROTEIN: 4g'
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 10 minutes
   rating: 0
   scale: null
@@ -4795,6 +5440,10 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '3': images/recipes/0279439F-0AA8-42CC-9CA8-89DFCAA9AA64.jpg
+  - '2': images/recipes/BAAB79D6-9EE3-4E7A-95A2-BEB15E7B4092-9628-00000348A38523D2.jpg
+  - '1': images/recipes/A8744EE0-8FC1-49F4-8133-A017677C3637-7551-000002720C90D247.jpg
   prep_time: 15 minutes
   rating: 5
   scale: 2/1
@@ -4866,6 +5515,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -4924,6 +5574,7 @@
     28gFiber: 1gSugar: 7gProtein: 5g'
   on_favorites: false
   on_grocery_list: false
+  photos: []
   prep_time: 20 minutes
   rating: 0
   scale: null
@@ -4982,6 +5633,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 5 minutes
   rating: 0
   scale: null
@@ -5015,6 +5667,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: 5 minutes
   rating: 0
   scale: null
@@ -5079,6 +5732,8 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
+  photos:
+  - '1': images/recipes/BDF8FE52-A44A-49E8-8377-E2EDF460DD01.jpg
   prep_time: 25 mins
   rating: 4
   scale: null
@@ -5124,6 +5779,8 @@
     Sodium 1159mg'
   on_favorites: false
   on_grocery_list: null
+  photos:
+  - '1': images/recipes/7B61A851-751F-46B8-B721-DF54F9229231-7551-0000028F140C3733.jpg
   prep_time: 3 min
   rating: 0
   scale: null
@@ -5207,6 +5864,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -5264,6 +5922,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -5272,3 +5931,83 @@
   source_url: https://cooking.nytimes.com/recipes/1020830-caramelized-shallot-pasta
   total_time: ''
   uid: F4D85915-CFBB-4137-93FD-25F0C79C9A4D-6315-0000022CD2A1EBDE
+- categories: []
+  cook_time: 25 minutes
+  created: '2021-03-21 03:36:13'
+  description: ''
+  difficulty: ''
+  directions:
+  - 'FOR THE CRUST:'
+  - "Preheat oven to 375 \xB0F and set an oven rack in the middle position."
+  - "In a medium bowl, combine the graham cracker crumbs, brown sugar, and melted\
+    \ butter; stir with a fork first, and then your hands until the mixture is well\
+    \ combined. Using your fingers and the bottom of a glass or dry measuring cup,\
+    \ press the crumbs firmly into the bottom and up the sides of a 9 x 1.5-inch pie\
+    \ pan. The crust should be about \xBC-inch thick. (Tip: do the sides first.)"
+  - Bake for 10 minutes, until just slightly browned. Let the crust cool on a wire
+    rack.
+  - 'FOR THE FILLING:'
+  - "Lower the oven temperature to 350\xB0F."
+  - In a large bowl, whisk together the sweetened condensed milk, yogurt, lime zest,
+    and lime juice. Pour the thick mixture into the warm graham cracker crust. Bake
+    for 15 minutes, until the filling is almost set; it should wobble a bit. Let cool
+    at room temperature for 30 minutes, then place in the refrigerator to chill thoroughly,
+    about 3 hours.
+  - 'FOR THE TOPPING:'
+  - "In the bowl of an electric mixer, beat the heavy cream until soft peaks form.\
+    \ Add the confectioners\u2019 sugar and beat until medium peaks form. Top the\
+    \ pie with the whipped cream. Decorate with the lime zest and lime slices. Store\
+    \ the pie in the refrigerator until ready to serve. Slice the pie into wedges,\
+    \ wiping your knife clean between slices, and serve cold."
+  - 'Make-Ahead Instructions: You can make the crust a day ahead of time, but the
+    filling should be added on the day of serving, otherwise the crust will get soggy.'
+  image_url: images/recipes/EC8B02E6-EA01-4F7A-9CF1-85CA369B5816.jpg
+  in_trash: false
+  ingredients:
+  - 'FOR THE CRUST:'
+  - 1-1/2 cups finely crushed graham cracker crumbs, from about 12 whole graham crackers
+  - 1/3 cup packed light brown sugar
+  - 4 tablespoons unsalted butter, melted
+  - 'FOR THE FILLING:'
+  - Two 14-oz cans sweetened condensed milk
+  - 1 cup plain Greek yogurt (2% or whole milk)
+  - 1 tablespoon grated lime zest
+  - 3/4 cup fresh lime juice
+  - 'FOR THE TOPPING:'
+  - 1 cup cold heavy cream
+  - 2 tablespoons confectioners' sugar
+  - 1 teaspoon grated lime zest
+  - 8 to 10 thin lime slices
+  is_pinned: false
+  name: Key Lime Pie
+  notes: 'Note: The nutritional information was calculated using 2% Greek yogurt.'
+  nutritional_info: 'Per serving (10 servings)
+
+    Calories: 481
+
+    Fat: 24 g
+
+    Saturated fat: 14 g
+
+    Carbohydrates: 60 g
+
+    Sugar: 54 g
+
+    Fiber: 0 g
+
+    Protein: 10 g
+
+    Sodium: 183 mg
+
+    Cholesterol: 76 mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 20 minutes
+  rating: 0
+  scale: null
+  servings: 'Servings: 8 to 10'
+  source: onceuponachef.com
+  source_url: https://www.onceuponachef.com/recipes/key-lime-pie.html
+  total_time: ''
+  uid: F820FC40-7A6B-4C6E-8CEA-9D756DC6B124

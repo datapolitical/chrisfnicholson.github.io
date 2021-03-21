@@ -35,12 +35,20 @@ jobs:
           fetch-depth: zero
 
       # Use GitHub Actions' cache to cache dependencies on servers
-      - uses: actions/cache@v1
+      - uses: actions/cache@v2
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+
+      # Use GitHub Actions' cache to cache site on servers
+      - uses: actions/cache@v2
+        with:
+          path: build
+          key: ${{ runner.os }}-build-${{ hashFiles('**/_data/picture.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-build-
 
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: datapolitical/jekyll-deploy-action@v0.2.7
