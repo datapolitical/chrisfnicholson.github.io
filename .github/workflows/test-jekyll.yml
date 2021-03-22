@@ -1,4 +1,4 @@
-name: Build and Deploy to Github Pages
+name: Development Build and Deploy to Github Pages
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   build_and_deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: 'Wait for status checks'
         id: waitforstatuschecks
@@ -37,9 +37,9 @@ jobs:
       - uses: actions/cache@v2
         with:
           path: build
-          key: ${{ runner.os }}-build-${{ hashFiles('**/_data/picture.yml') }}
+          key: ${{ runner.os }}-build-dev-${{ hashFiles('**/_data/picture.yml') }}
           restore-keys: |
-            ${{ runner.os }}-build-
+            ${{ runner.os }}-build-dev-
 
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: jeffreytse/jekyll-deploy-action@master
