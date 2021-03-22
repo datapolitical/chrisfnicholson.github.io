@@ -25,13 +25,13 @@ jobs:
         with:
           fetch-depth: zero
 
-      # Use GitHub Actions' cache to cache dependencies on servers
-      #- uses: actions/cache@v2
-      #  with:
-      #    path: vendor/bundle
-      #    key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-      #    restore-keys: |
-      #      ${{ runner.os }}-gems-
+       Use GitHub Actions' cache to cache dependencies on servers
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-dev-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-dev-
 
       # Use GitHub Actions' cache to cache site on servers
       - uses: actions/cache@v2
